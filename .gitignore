@@ -91,3 +91,6 @@ sw.*
 *.swp
 
 .vercel
+
+# Local Netlify folder
+.netlify
